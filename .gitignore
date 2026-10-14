@@ -1,0 +1,10 @@
+node_modules/
+/dist/
+*.tsbuildinfo
+*.textClipping
+
+# 知识库若入 git，这三处最可能含敏感上下文（见 docs/privacy.md）
+# knowledge/.coach/
+# knowledge/inbox/
+
+.DS_Store

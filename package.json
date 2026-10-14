@@ -1,0 +1,20 @@
+{
+  "name": "coach-kb",
+  "version": "0.4.0",
+  "private": true,
+  "type": "module",
+  "description": "教练模式的知识沉淀层：把会话变成你自己的知识卡片。",
+  "bin": {
+    "coach": "./bin/coach.mjs"
+  },
+  "scripts": {
+    "build": "bun run scripts/build.mjs",
+    "test": "bun test",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.4.3",
+    "@types/node": "^22.10.2",
+    "typescript": "^5.7.2"
+  }
+}

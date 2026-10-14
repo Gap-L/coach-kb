@@ -1,0 +1,8 @@
+{
+  "name": "coach-kb",
+  "version": "0.4.0",
+  "description": "教练模式的知识沉淀层：把会话变成你自己的知识卡片（与旧的 /coach 提问层共存，互不接管）。",
+  "author": {
+    "name": "coach-kb maintainers"
+  }
+}

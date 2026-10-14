@@ -1,0 +1,15 @@
+{
+  "name": "coach-kb",
+  "owner": {
+    "name": "coach-kb maintainers"
+  },
+  "description": "把 AI 干过的活变成你自己的知识。自带 marketplace，可本地 add。",
+  "plugins": [
+    {
+      "name": "coach-kb",
+      "source": ".",
+      "description": "教练模式的知识沉淀层：复盘这场会话的卡点、用你自己的话认下它、查你的知识库。",
+      "version": "0.4.0"
+    }
+  ]
+}
